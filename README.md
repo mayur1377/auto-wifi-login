@@ -1,7 +1,7 @@
 
 # still under work
 
-download this repo , extract it in c drive 
+download this repo , extract the "wifilogin" folder in "c drive" 
 
 edit the "sample.txt" file in the below format
 
