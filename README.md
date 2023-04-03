@@ -1,5 +1,4 @@
 
-# STILL UNDER TESTING CONDITION
 ## WHAT IT IS
 • I made this automatic connection wifi connection login thing cause I find it very much annoying to login 
 every hour?? or something to access proper wifi
